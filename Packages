@@ -1,0 +1,15 @@
+Package: com.kr0n1k.Elite10
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: kr0n1k <tjrmoney@gmail.com>
+Depends: winterboard, com.codethemed.iconbundles
+Filename: ./debs/com.kr0n1k.elite10_1.0.0_iphoneos-arm.deb
+Size: 1890320
+MD5sum: 8bafd4426ebd116ee31b95841f33bd70
+SHA1: 9d48b62e9414c2ba5f9ddd8c12a3f1fc58889bbf
+SHA256: e36fc0754db551d06fbd7dac41b3acc6d8b0fe5f80baf817a3bd85dcdba1081c
+Section: Themes (Springboard)
+Description: Elite for iOS 10
+Author: kr0n1k <tjrmoney@gmail.com>
+Name: Elite10
+
