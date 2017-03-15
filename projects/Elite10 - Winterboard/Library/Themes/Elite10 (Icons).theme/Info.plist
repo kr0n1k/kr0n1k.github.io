@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PackageName</key>
+	<string>Elite10</string>    <!--Your Theme Name -->
+	
+	<key>CalendarIconDateSettings</key>  <!--Calendar Icon Settings -->
+	<dict>
+		<key>FontSize</key>
+		<integer>32</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>1</integer>
+		<key>ShadowColor</key>
+		<string>#666666</string>
+		<key>TextColor</key>
+		<string>#111111</string>
+		<key>TextYoffset</key>
+		<integer>6</integer>
+	</dict>
+	<key>CalendarIconDaySettings</key> <!--Calendar Icon Settings -->
+	<dict>
+		<key>FontSize</key>
+		<integer>9</integer>
+		<key>ShadowBlurRadius</key>
+		<integer>1</integer>
+		<key>ShadowColor</key>
+		<string>#666666</string>
+		<key>TextColor</key>
+		<string>#FF0000</string>
+		<key>TextYoffset</key>
+		<integer>3</integer>
+	</dict>
+	<key>IB-MaskIcons</key> <!--Mask Icons True / or False -->
+	<true/>
+</dict>
+</plist>
+
+
+
+
+
+
+
