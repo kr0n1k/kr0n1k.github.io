@@ -1,9 +1,0 @@
-Package: com.kr0n1k.Elite10wb
-Name: Elite10 Winterboard
-Version: 2.0.0
-Depends: winterboard, com.codethemed.iconbundles
-Architecture: iphoneos-arm
-Description: Elite for iOS 10
-Maintainer: kr0n1k <tjrmoney@gmail.com>
-Author: kr0n1k <tjrmoney@gmail.com>
-Section: Themes (Springboard)
