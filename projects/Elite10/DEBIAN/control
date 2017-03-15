@@ -1,0 +1,9 @@
+Package: com.kr0n1k.Elite10
+Name: Elite10
+Version: 1.0.0
+Depends: com.anemonetheming.anemone
+Architecture: iphoneos-arm
+Description: Elite for iOS 10
+Maintainer: kr0n1k <tjrmoney@gmail.com>
+Author: kr0n1k <tjrmoney@gmail.com>
+Section: Themes (Springboard)

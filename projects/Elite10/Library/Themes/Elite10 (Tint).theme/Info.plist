@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+<dict>
+  <key>PackageName</key>
+ <string>Elite10</string>
+    <key>TintFilter</key>
+    <dict>
+        <key>policy</key>
+        <string>blacklist</string>
+        <key>BundleIdentifiers</key>
+        <array />
+</dict>
+    <key>TintColors</key>
+    <dict>
+        <key>UITextField</key>
+        <string>#676E75</string>
+<key>UIButton</key>
+        <string>#676E75</string>
+<key>UISlider</key>
+        <string>#676E75</string>
+<key>UINavigationBar</key>
+        <string>#676E75</string>
+<key>UISwitch</key>
+        <string>#676E75</string>
+<key>UISegmentedControl</key>
+        <string>#676E75</string>
+<key>UISegmented</key>
+        <string>#676E75</string>
+<key>UIToolbar</key>
+        <string>#676E75</string>
+<key>UITabBar</key>
+        <string>#676E75</string>
+<key>UITabBarButtonLabel</key>
+        <string>#676E75</string>
+<key>UILayoutContainerView</key>
+        <string>#676E75</string>
+    </dict>
+</dict>
+</plist>

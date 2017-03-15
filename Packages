@@ -6,4 +6,14 @@ Depends: winterboard, com.codethemed.iconbundles
 Section: Themes (Springboard)
 Description: Elite for iOS 10
 Author: kr0n1k <tjrmoney@gmail.com>
+Name: Elite10 - Winterboard
+
+Package: com.kr0n1k.Elite10
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: kr0n1k <tjrmoney@gmail.com>
+Depends: com.anemonetheming.anemone
+Section: Themes (Springboard)
+Description: Elite for iOS 10
+Author: kr0n1k <tjrmoney@gmail.com>
 Name: Elite10
