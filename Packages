@@ -5,9 +5,9 @@ Maintainer: kr0n1k <tjrmoney@gmail.com>
 Depends: com.anemonetheming.anemone
 Filename: ./debs/com.kr0n1k.elite10_1.0.0_iphoneos-arm.deb
 Size: 1791818
-MD5sum: 7fd537d0fbbb6ed6e1a0aaca354f1994
-SHA1: 21d22b6d2cdd18632486f8d6fb69cdcf9177dac9
-SHA256: 212636b89d3cb6dc5e9b00a99da91917986beb34db516636b302283abae8b928
+MD5sum: 122c3293c2770eb076124b9a8c1b0bd9
+SHA1: dbbbb3aca9e489ada8099e1e0c216d395ac433e3
+SHA256: 3973e45bfff9b64e6c69735ff17f3e3922e47bf2f4cdea66b8a2546e96b0f4ed
 Section: Themes (Springboard)
 Description: Elite for iOS 10
 Author: kr0n1k <tjrmoney@gmail.com>
